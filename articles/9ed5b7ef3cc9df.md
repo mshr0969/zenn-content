@@ -8,7 +8,7 @@ topics: [
     "レプリケーション",
     "DB"
 ]
-published: false
+published: true
 ---
 
 # はじめに
