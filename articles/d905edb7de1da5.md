@@ -12,7 +12,7 @@ published: true
 結果は残念でしたがとても楽しかったです！！
 
 つよつよ記事ではないので、温かい目でみていただけると幸いです😇
-[CyberAgent 26th Fresh Engineer's Advent Calendar](https://qiita.com/advent-calendar/2024/ca-26th) 2024の9日目の記事も兼ねてます！(内定者のアドベントカレンダーなのに、撃沈したという内容で面目ないです🫠)
+[CyberAgent 26th Fresh Engineer's Advent Calendar 2024](https://qiita.com/advent-calendar/2024/ca-26th)の9日目の記事も兼ねてます！(内定者のアドベントカレンダーなのに、撃沈したという内容で面目ないです🫠)
 
 # チーム
 ### チーム名
